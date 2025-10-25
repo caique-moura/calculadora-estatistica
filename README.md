@@ -40,12 +40,12 @@ O código é **simples, legível e ideal para estudantes iniciantes** em Python.
 
 2. Acesse a pasta do projeto:
    ```bash
-   cd calculadora-estatistica
+   cd calculadora
    ```
 
 3. Execute o script:
    ```bash
-   python calculadora_estatistica.py
+   python main-calculadora.py
    ```
 
 ---
